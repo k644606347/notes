@@ -1,11 +1,3 @@
-// const { Randomize } = require('algorithm-visualizer');
-
-// const Mock = require('mockjs');
-
-// console.log(Mock.mock({
-//     'data|+1': [1]
-// }));
-
 'use strict';
 const { randomNumArr } = require('../Tools');
 
